@@ -1,7 +1,7 @@
 ## Art Description Generation for Paintings
 
 <p align="center">
-  <img width="460" src="https://github.com/noagarcia/explain-paintings/blob/master/main.png">
+  <img width="460" src="https://github.com/noagarcia/explain-paintings/blob/main/main.png">
 </p>
 
 This repository is for the annotated data in the [paper]() *Explain Me the Painting: Multi-TopicKnowledgeable Art Description Generation*, 
