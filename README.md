@@ -39,7 +39,7 @@ where `img` is the filename of the image in the SemArt dataset, `description` is
 In the paper, we introduced a model to generate multi-topic knowledgeable description from paintings. The code for this model can be found in this (TODO)[repository]().
 
 ### Maintenance
-If you have questions or doubt about the data in this repository, please contact Noa Garcia.
+If you have questions about the data in this repository, please contact Noa Garcia.
 
 ### References
 
