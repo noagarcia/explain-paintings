@@ -4,10 +4,10 @@
   <img width="460" src="https://github.com/noagarcia/explain-paintings/blob/main/main.png?raw=true">
 </p>
 
-This repository is for the annotated data in the [paper]() *Explain Me the Painting: Multi-TopicKnowledgeable Art Description Generation*, 
+This repository is for the annotated data in the paper[Explain Me the Painting: Multi-TopicKnowledgeable Art Description Generatio](), 
 published at [ICCV 2021](http://iccv2021.thecvf.com/).
 
-The code for the model introduced in the paper can be found in this other [repository]().
+The code for the model introduced in the paper can be found in this other (TODO)[repository]().
 
 ### Data
 Art descriptions can be classified into three main topics [1]:
@@ -39,7 +39,7 @@ where `img` is the filename of the image in the SemArt dataset, `description` is
 [2] Noa Garcia and George Vogiatzis. How to read paintings:Semantic art understanding with multi-modal retrieval. In Proc. ECCV Workshops, 2018.
 
 ### Code
-In the paper, we introduced a model to generate multi-topic knowledgeable description from paintings. The code for this model can be found in this [repository]().
+In the paper, we introduced a model to generate multi-topic knowledgeable description from paintings. The code for this model can be found in this (TODO)[repository]().
 
 ### Maintenance
 If you have questions or have any doubt about the data in this repository, please contact Noa Garcia.
