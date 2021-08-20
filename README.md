@@ -4,7 +4,7 @@
   <img width="460" src="https://github.com/noagarcia/explain-paintings/blob/main/main.png?raw=true">
 </p>
 
-This repository is for the annotated data in the paper[Explain Me the Painting: Multi-TopicKnowledgeable Art Description Generatio](), 
+This repository is for the annotated data in the paper [Explain Me the Painting: Multi-TopicKnowledgeable Art Description Generatio](), 
 published at [ICCV 2021](http://iccv2021.thecvf.com/).
 
 The code for the model introduced in the paper can be found in this other (TODO)[repository]().
