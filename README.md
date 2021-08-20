@@ -15,7 +15,7 @@ Art descriptions can be classified into three main topics [1]:
 - **Content**: describes what the artwork is about.
 - **Context**: describes in what circumstances the work was done.
 
-In order to study art description generation, we annotated a subset of the [SemArt dataset](https://noagarcia.github.io/SemArt/) [1], associating each sentence in a description to one of the above topics. 
+In order to study art description generation, we annotated a subset of the [SemArt dataset](https://noagarcia.github.io/SemArt/) [2], associating each sentence in a description to one of the above topics. 
 
 In total, we annotated 33,543 sentences from 17,249 images. 
 
