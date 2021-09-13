@@ -7,7 +7,7 @@
 This repository is for the annotated data in the paper [Explain Me the Painting: Multi-TopicKnowledgeable Art Description Generatio](), 
 published at [ICCV 2021](http://iccv2021.thecvf.com/).
 
-The code for the model introduced in the paper can be found in this other (TODO)[repository]().
+The code for the model introduced in the paper can be found in this other [repository](https://github.com/JosephPai/Art-Description).
 
 ### Data
 Art descriptions can be classified into three main topics [1]:
@@ -36,7 +36,7 @@ annotations[{
 where `img` is the filename of the image in the SemArt dataset, `description` is the original description, and `content`/`form`/`context` are lists with the sentences annotated to each topic, respectively. If an image doesn't have any sentences for a certain topic, the list for that topic is empty.
 
 ### Code
-In the paper, we introduced a model to generate multi-topic knowledgeable description from paintings. The code for this model can be found in this (TODO)[repository]().
+In the paper, we introduced a model to generate multi-topic knowledgeable description from paintings. The code for this model can be found in this [repository](https://github.com/JosephPai/Art-Description).
 
 ### Maintenance
 If you have questions about the data in this repository, please contact Noa Garcia.
@@ -54,8 +54,8 @@ If you find the data in this repository useful, please cite our paper:
 ````
 @InProceedings{bai2021explain,
    author    = {Zechen Bai and Yuta Nakashima and Noa Garcia},
-   title     = {Explain Me the Painting: Multi-TopicKnowledgeable Art Description Generation},
-   booktitle = {Proceedings of the International Conference in Computer Vision Workshops},
+   title     = {Explain Me the Painting: Multi-Topic Knowledgeable Art Description Generation},
+   booktitle = {International Conference in Computer Vision},
    year      = {2021},
 }
 ````
